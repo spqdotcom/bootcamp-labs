@@ -53,8 +53,3 @@ This repository contains all the labs I completed during my 2025 Data Analytics 
 - [PCA](https://github.com/spqdotcom/PCA_Lab)
 - [Numpy](https://github.com/spqdotcom/NumpyLab)
 - [Neutral Nets for Classification](https://github.com/spqdotcom/NNLab)
-
-
-- []()
-- []()
-- []()
