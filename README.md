@@ -1,6 +1,6 @@
 # Bootcamp Labs
 
-This repository contains all the labs I completed during my 2025 Data Analytics Bootcamp. Each folder corresponds to a specific lab, with code and documentation.
+This repository contains all the labs I completed during my Data Analytics Bootcamp. Each folder corresponds to a specific lab, with code and documentation.
 
 ## Labs
 
